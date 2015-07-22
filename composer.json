@@ -1,9 +1,9 @@
 {
-  "name": "tsolucio/ComposerInstall",
+  "name": "evolutivo/ComposerInstall",
   "type": "library",
   "autoload": {
         "psr-4": {
-            "tsolucio\\ComposerInstall\\": ""
+            "evolutivo\\ComposerInstall\\": ""
         }
     }
 }
