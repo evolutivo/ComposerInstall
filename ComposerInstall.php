@@ -14,7 +14,7 @@
 * at <http://corebos.org/documentation/doku.php?id=en:devel:vpl11>
 *************************************************************************************************/
 
-namespace tsolucio\ComposerInstall;
+namespace evolutivo\ComposerInstall;
 use ComposerScriptEvent;
 
 $Vtiger_Utils_Log = false;
